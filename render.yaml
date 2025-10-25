@@ -2,8 +2,10 @@ services:
   - type: web
     name: sanjtiksha-main
     env: static
-    buildCommand: npm run build
+    buildCommand: npm install && npm run build
     staticPublishPath: ./dist
     envVars:
       - key: NODE_VERSION
         value: 18
+      - key: NPM_CONFIG_PRODUCTION
+        value: false
