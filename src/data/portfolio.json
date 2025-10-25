@@ -1,0 +1,95 @@
+{
+  "title": "Our Portfolio & Success Stories",
+  "description": "Explore our successful projects and case studies that showcase our expertise in both trading solutions and technology services.",
+  "categories": [
+    { "label": "All Projects", "value": "all" },
+    { "label": "Trading Solutions", "value": "trading" },
+    { "label": "IT Services", "value": "itservices" }
+  ],
+  "projects": [
+    {
+      "title": "Global E-commerce Platform",
+      "description": "Built a comprehensive e-commerce solution for a multinational retail chain, integrating advanced inventory management and multi-currency support.",
+      "category": "itservices",
+      "icon": "🛒",
+      "technologies": ["React", "Node.js", "MongoDB", "AWS", "Stripe"],
+      "results": [
+        "300% increase in online sales",
+        "50% reduction in inventory costs",
+        "99.9% uptime achieved"
+      ],
+      "demo_link": "https://demo.sanjtiksha.com/ecommerce",
+      "case_study": "https://case-studies.sanjtiksha.com/ecommerce"
+    },
+    {
+      "title": "Supply Chain Optimization",
+      "description": "Implemented AI-powered supply chain management system for a manufacturing company, reducing costs and improving efficiency.",
+      "category": "trading",
+      "icon": "📦",
+      "technologies": ["Python", "Machine Learning", "IoT", "Cloud Computing"],
+      "results": [
+        "40% reduction in supply chain costs",
+        "60% improvement in delivery times",
+        "25% increase in profit margins"
+      ],
+      "demo_link": "https://demo.sanjtiksha.com/supply-chain",
+      "case_study": "https://case-studies.sanjtiksha.com/supply-chain"
+    },
+    {
+      "title": "Mobile Banking App",
+      "description": "Developed a secure mobile banking application with biometric authentication and real-time transaction processing.",
+      "category": "itservices",
+      "icon": "💳",
+      "technologies": ["React Native", "Node.js", "PostgreSQL", "Blockchain"],
+      "results": [
+        "500K+ downloads in first month",
+        "99.8% security rating",
+        "4.9/5 user rating"
+      ],
+      "demo_link": "https://demo.sanjtiksha.com/banking",
+      "case_study": "https://case-studies.sanjtiksha.com/banking"
+    },
+    {
+      "title": "International Trade Network",
+      "description": "Established a global trading network connecting suppliers and buyers across 15 countries with automated quality assurance.",
+      "category": "trading",
+      "icon": "🌍",
+      "technologies": ["Blockchain", "Smart Contracts", "IoT Sensors", "AI"],
+      "results": [
+        "Connected 500+ suppliers globally",
+        "95% quality assurance rate",
+        "30% faster trade processing"
+      ],
+      "demo_link": "https://demo.sanjtiksha.com/trade-network",
+      "case_study": "https://case-studies.sanjtiksha.com/trade-network"
+    },
+    {
+      "title": "Healthcare Management System",
+      "description": "Created a comprehensive healthcare management platform with patient records, appointment scheduling, and telemedicine capabilities.",
+      "category": "itservices",
+      "icon": "🏥",
+      "technologies": ["Vue.js", "Django", "PostgreSQL", "WebRTC"],
+      "results": [
+        "Serving 50+ healthcare providers",
+        "90% patient satisfaction rate",
+        "40% reduction in administrative costs"
+      ],
+      "demo_link": "https://demo.sanjtiksha.com/healthcare",
+      "case_study": "https://case-studies.sanjtiksha.com/healthcare"
+    },
+    {
+      "title": "Smart Inventory Management",
+      "description": "Implemented IoT-based smart inventory system with real-time tracking and predictive analytics for retail chains.",
+      "category": "trading",
+      "icon": "📊",
+      "technologies": ["IoT", "Machine Learning", "React", "Node.js"],
+      "results": [
+        "70% reduction in stockouts",
+        "45% improvement in inventory turnover",
+        "25% increase in sales"
+      ],
+      "demo_link": "https://demo.sanjtiksha.com/inventory",
+      "case_study": "https://case-studies.sanjtiksha.com/inventory"
+    }
+  ]
+}

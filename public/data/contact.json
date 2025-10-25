@@ -1,0 +1,45 @@
+{
+  "title": "Get In Touch",
+  "description": "Ready to transform your business? Have questions about our services? We'd love to hear from you and discuss how we can help you achieve your goals.",
+  "contact": {
+    "email": "info@sanjtiksha.com",
+    "phone": "+91 9876543210",
+    "address": "Pune, Maharashtra, India",
+    "map_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.265588856372!2d73.91404091531671!3d18.520430387391!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c147b8b3a3bf%3A0x6f7fdcc8e4a6f3b1!2sPune%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1635789123456!5m2!1sen!2sin",
+    "form_enabled": true,
+    "business_hours": "Monday - Friday: 9:00 AM - 6:00 PM IST",
+    "emergency_contact": "+91 9876543211"
+  },
+  "social": {
+    "linkedin": "https://linkedin.com/company/sanjtiksha",
+    "twitter": "https://twitter.com/sanjtiksha",
+    "facebook": "https://facebook.com/sanjtiksha",
+    "instagram": "https://instagram.com/sanjtiksha"
+  },
+  "contact_options": [
+    {
+      "title": "General Inquiries",
+      "description": "Questions about our services or general information",
+      "contact": "info@sanjtiksha.com",
+      "icon": "📧"
+    },
+    {
+      "title": "Sales & Business",
+      "description": "Ready to start a project or need a quote",
+      "contact": "sales@sanjtiksha.com",
+      "icon": "💼"
+    },
+    {
+      "title": "Technical Support",
+      "description": "Need help with existing projects or technical issues",
+      "contact": "support@sanjtiksha.com",
+      "icon": "🔧"
+    },
+    {
+      "title": "Partnership",
+      "description": "Interested in partnering with us",
+      "contact": "partnerships@sanjtiksha.com",
+      "icon": "🤝"
+    }
+  ]
+}

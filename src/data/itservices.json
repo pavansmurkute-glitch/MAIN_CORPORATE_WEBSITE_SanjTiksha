@@ -1,0 +1,37 @@
+{
+  "title": "Technology Solutions & Innovation",
+  "description": "Empower your business with cutting-edge technology solutions. From custom software development to digital transformation, we deliver innovative solutions that drive growth and efficiency.",
+  "services": [
+    "Custom Software Development - Tailored solutions for your unique business needs",
+    "Web & Mobile Applications - Modern, scalable applications for all platforms",
+    "Cloud Infrastructure - Secure, scalable cloud solutions and migration",
+    "AI & Machine Learning - Intelligent automation and data-driven insights",
+    "Digital Transformation - Complete business process modernization",
+    "Cybersecurity - Comprehensive security solutions and compliance",
+    "API Integration - Seamless system integration and data management",
+    "UI/UX Design - User-centered design that converts and engages"
+  ],
+  "technologies": [
+    {
+      "name": "Frontend",
+      "tools": ["React", "Vue.js", "Angular", "Next.js", "TypeScript"]
+    },
+    {
+      "name": "Backend",
+      "tools": ["Node.js", "Python", "Java", "PHP", "C#"]
+    },
+    {
+      "name": "Database",
+      "tools": ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase"]
+    },
+    {
+      "name": "Cloud",
+      "tools": ["AWS", "Azure", "Google Cloud", "Docker", "Kubernetes"]
+    }
+  ],
+  "button": {
+    "label": "Explore IT Solutions",
+    "link": "https://it.sanjtiksha.com"
+  },
+  "image": "/images/it.jpg"
+}

@@ -1,0 +1,21 @@
+{
+  "contact": {
+    "address": "Pune, Maharashtra, India",
+    "email": "info@sanjtiksha.com",
+    "phone": "+91 76662 93267",
+    "businessHours": {
+      "weekdays": "Monday - Saturday: 10:00 AM - 10:00 PM",
+      "sunday": "Sunday: Closed"
+    }
+  },
+  "testimonials": [],
+  "productCategories": [],
+  "marketplacePresence": [],
+  "technicalExpertise": [],
+  "messages": [],
+  "footerContact": {
+    "address": "Pune, Maharashtra, India",
+    "email": "info@sanjtiksha.com",
+    "phone": "+91 76662 93267"
+  }
+}

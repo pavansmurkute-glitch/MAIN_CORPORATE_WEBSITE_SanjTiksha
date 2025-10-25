@@ -1,0 +1,52 @@
+{
+  "title": "Our Portfolio",
+  "description": "Explore our successful projects and case studies across trading and technology solutions.",
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-Commerce Platform",
+      "description": "Complete e-commerce solution with payment integration and inventory management",
+      "category": "IT Services",
+      "image": "/images/portfolio1.jpg",
+      "technologies": ["React", "Node.js", "MongoDB", "Stripe"],
+      "client": "Retail Chain",
+      "duration": "3 months",
+      "status": "Completed"
+    },
+    {
+      "id": 2,
+      "title": "Supply Chain Optimization",
+      "description": "AI-powered supply chain management system for global trading operations",
+      "category": "Trading Solutions",
+      "image": "/images/portfolio2.jpg",
+      "technologies": ["Python", "Machine Learning", "AWS", "Docker"],
+      "client": "Manufacturing Company",
+      "duration": "6 months",
+      "status": "Completed"
+    },
+    {
+      "id": 3,
+      "title": "Mobile Trading App",
+      "description": "Cross-platform mobile application for real-time trading and market analysis",
+      "category": "IT Services",
+      "image": "/images/portfolio3.jpg",
+      "technologies": ["React Native", "Firebase", "WebSocket", "Redux"],
+      "client": "Financial Services",
+      "duration": "4 months",
+      "status": "In Progress"
+    }
+  ],
+  "categories": [
+    "All",
+    "IT Services",
+    "Trading Solutions",
+    "Web Development",
+    "Mobile Apps"
+  ],
+  "stats": {
+    "total_projects": 50,
+    "happy_clients": 35,
+    "years_experience": 5,
+    "success_rate": "98%"
+  }
+}

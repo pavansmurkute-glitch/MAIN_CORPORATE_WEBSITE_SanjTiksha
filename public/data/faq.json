@@ -1,0 +1,85 @@
+{
+  "title": "Frequently Asked Questions",
+  "description": "Find answers to common questions about our services, processes, and how we can help your business grow.",
+  "categories": [
+    {
+      "name": "General",
+      "icon": "❓"
+    },
+    {
+      "name": "Trading Services",
+      "icon": "🛒"
+    },
+    {
+      "name": "IT Services",
+      "icon": "💻"
+    },
+    {
+      "name": "Support",
+      "icon": "🔧"
+    }
+  ],
+  "faqs": [
+    {
+      "id": 1,
+      "category": "General",
+      "question": "What is SanjTiksha Roots & Wings?",
+      "answer": "SanjTiksha Roots & Wings is a comprehensive business solutions company that combines traditional trading expertise with modern technology services. We provide end-to-end solutions for businesses looking to expand their operations through quality product sourcing and cutting-edge technology implementation.",
+      "tags": ["company", "services", "overview"]
+    },
+    {
+      "id": 2,
+      "category": "Trading Services",
+      "question": "What types of products do you source?",
+      "answer": "We source a wide variety of products including electronics, textiles, machinery, consumer goods, and specialized industrial equipment. Our global network of verified suppliers allows us to source high-quality products from manufacturers worldwide, tailored to your specific requirements and quality standards.",
+      "tags": ["sourcing", "products", "suppliers"]
+    },
+    {
+      "id": 3,
+      "category": "IT Services",
+      "question": "What technology services do you offer?",
+      "answer": "Our IT services include custom software development, web and mobile application development, cloud infrastructure setup, AI and machine learning solutions, digital transformation consulting, cybersecurity services, and ongoing technical support. We work with modern technologies like React, Node.js, Python, AWS, and more.",
+      "tags": ["technology", "development", "software"]
+    },
+    {
+      "id": 4,
+      "category": "General",
+      "question": "How long has the company been in business?",
+      "answer": "SanjTiksha Roots & Wings has been operating for over 5 years, with our team members bringing decades of combined experience in both traditional commerce and modern technology. We've successfully completed 1000+ projects and served 500+ clients across 15+ countries.",
+      "tags": ["experience", "history", "track-record"]
+    },
+    {
+      "id": 5,
+      "category": "Trading Services",
+      "question": "What is your quality assurance process?",
+      "answer": "We follow a rigorous 5-step quality control process: 1) Supplier verification and certification, 2) Pre-production quality checks, 3) In-production monitoring, 4) Final inspection and testing, 5) Post-delivery quality assurance. This ensures every product meets our high standards and your specifications.",
+      "tags": ["quality", "process", "assurance"]
+    },
+    {
+      "id": 6,
+      "category": "IT Services",
+      "question": "Do you provide ongoing support after project completion?",
+      "answer": "Yes, we offer comprehensive post-project support including maintenance, updates, bug fixes, and feature enhancements. Our support packages range from basic maintenance to full managed services, ensuring your technology solutions continue to perform optimally.",
+      "tags": ["support", "maintenance", "ongoing"]
+    },
+    {
+      "id": 7,
+      "category": "General",
+      "question": "How do I get started with your services?",
+      "answer": "Getting started is easy! Simply contact us through our website, email, or phone. We'll schedule a free consultation to understand your needs, discuss your goals, and provide a customized proposal. Our team will guide you through the entire process from initial planning to project completion.",
+      "tags": ["getting-started", "consultation", "process"]
+    },
+    {
+      "id": 8,
+      "category": "Support",
+      "question": "What are your response times for support requests?",
+      "answer": "We pride ourselves on quick response times: 2 hours for critical issues, 4 hours for high priority, 24 hours for standard requests, and 48 hours for general inquiries. Our 24/7 support team ensures you get help when you need it, regardless of time zones.",
+      "tags": ["response-time", "support", "availability"]
+    }
+  ],
+  "contact_info": {
+    "email": "support@sanjtiksha.com",
+    "phone": "+91 9876543210",
+    "hours": "24/7 Support Available"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "title": "Meet Our Expert Team",
+  "description": "Our diverse team of professionals brings together decades of experience in both commerce and technology, united by a shared vision of excellence and innovation.",
+  "members": [
+    {
+      "name": "Sanjay Kumar",
+      "position": "Founder & CEO",
+      "bio": "Visionary leader with 15+ years in business development and technology innovation. Passionate about bridging traditional commerce with modern solutions.",
+      "skills": ["Strategic Planning", "Business Development", "Leadership", "Innovation"],
+      "social": {
+        "linkedin": "https://linkedin.com/in/sanjay-kumar",
+        "twitter": "https://twitter.com/sanjay_kumar"
+      }
+    },
+    {
+      "name": "Priya Sharma",
+      "position": "CTO",
+      "bio": "Technology expert with expertise in full-stack development, cloud architecture, and digital transformation. Leads our IT services division.",
+      "skills": ["Full-Stack Development", "Cloud Architecture", "AI/ML", "DevOps"],
+      "social": {
+        "linkedin": "https://linkedin.com/in/priya-sharma",
+        "twitter": "https://twitter.com/priya_sharma"
+      }
+    },
+    {
+      "name": "Rajesh Patel",
+      "position": "Head of Trading Operations",
+      "bio": "Supply chain and trading specialist with extensive experience in product sourcing, quality assurance, and international trade.",
+      "skills": ["Supply Chain", "Quality Assurance", "International Trade", "Logistics"],
+      "social": {
+        "linkedin": "https://linkedin.com/in/rajesh-patel"
+      }
+    },
+    {
+      "name": "Dr. Sarah Johnson",
+      "position": "Head of Innovation",
+      "bio": "Research and development leader focused on emerging technologies and their practical applications in business solutions.",
+      "skills": ["R&D", "Emerging Technologies", "Data Science", "Product Development"],
+      "social": {
+        "linkedin": "https://linkedin.com/in/sarah-johnson",
+        "twitter": "https://twitter.com/sarah_johnson"
+      }
+    },
+    {
+      "name": "Amit Kumar",
+      "position": "Head of Client Relations",
+      "bio": "Customer success expert dedicated to building lasting relationships and ensuring client satisfaction across all our services.",
+      "skills": ["Client Relations", "Customer Success", "Communication", "Problem Solving"],
+      "social": {
+        "linkedin": "https://linkedin.com/in/amit-kumar"
+      }
+    },
+    {
+      "name": "Lisa Chen",
+      "position": "Head of Marketing",
+      "bio": "Digital marketing strategist with expertise in brand building, digital campaigns, and market expansion across multiple industries.",
+      "skills": ["Digital Marketing", "Brand Strategy", "Content Marketing", "SEO/SEM"],
+      "social": {
+        "linkedin": "https://linkedin.com/in/lisa-chen",
+        "twitter": "https://twitter.com/lisa_chen"
+      }
+    }
+  ],
+  "stats": [
+    {
+      "number": "25+",
+      "label": "Team Members"
+    },
+    {
+      "number": "50+",
+      "label": "Years Combined Experience"
+    },
+    {
+      "number": "15+",
+      "label": "Countries Represented"
+    },
+    {
+      "number": "95%",
+      "label": "Client Satisfaction Rate"
+    }
+  ]
+}

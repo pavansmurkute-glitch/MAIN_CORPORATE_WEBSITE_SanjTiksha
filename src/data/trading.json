@@ -1,0 +1,39 @@
+{
+  "title": "Trading & Retail Solutions",
+  "description": "Transform your business with our comprehensive trading and retail solutions. From product sourcing to supply chain optimization, we provide end-to-end services that drive growth and efficiency.",
+  "features": [
+    "Global Product Sourcing - Access to 10,000+ verified suppliers worldwide",
+    "Quality Assurance - Rigorous 5-step quality control process",
+    "Supply Chain Optimization - AI-powered logistics and inventory management",
+    "Custom Trading Solutions - Tailored strategies for your business needs",
+    "24/7 Support - Dedicated account managers and technical support",
+    "Compliance & Documentation - Full regulatory compliance and documentation"
+  ],
+  "services": [
+    {
+      "title": "Product Sourcing",
+      "description": "Find and source the best products from verified suppliers globally",
+      "icon": "🔍"
+    },
+    {
+      "title": "Quality Control",
+      "description": "Comprehensive quality assurance and testing processes",
+      "icon": "✅"
+    },
+    {
+      "title": "Supply Chain",
+      "description": "Optimized logistics and inventory management solutions",
+      "icon": "📦"
+    },
+    {
+      "title": "Market Analysis",
+      "description": "Data-driven insights for better trading decisions",
+      "icon": "📊"
+    }
+  ],
+  "button": {
+    "label": "Explore Trading Solutions",
+    "link": "https://shop.sanjtiksha.com"
+  },
+  "image": "/images/trading.jpg"
+}

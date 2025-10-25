@@ -1,0 +1,91 @@
+{
+  "title": "Meet Our Team",
+  "description": "Our diverse team of experts brings together decades of experience in trading, technology, and business innovation.",
+  "team_members": [
+    {
+      "id": 1,
+      "name": "Rajesh Kumar",
+      "position": "Founder & CEO",
+      "department": "Leadership",
+      "image": "/images/team/rajesh.jpg",
+      "bio": "Visionary leader with 15+ years in international trade and technology. Passionate about bridging traditional commerce with modern innovation.",
+      "expertise": ["Strategic Planning", "International Trade", "Business Development"],
+      "experience": "15+ years",
+      "education": "MBA in International Business",
+      "linkedin": "https://linkedin.com/in/rajesh-kumar",
+      "email": "rajesh@sanjtiksha.com"
+    },
+    {
+      "id": 2,
+      "name": "Priya Sharma",
+      "position": "CTO",
+      "department": "Technology",
+      "image": "/images/team/priya.jpg",
+      "bio": "Technology innovator specializing in scalable software solutions and digital transformation strategies.",
+      "expertise": ["Software Architecture", "Cloud Computing", "AI/ML", "DevOps"],
+      "experience": "12+ years",
+      "education": "MS in Computer Science",
+      "linkedin": "https://linkedin.com/in/priya-sharma",
+      "email": "priya@sanjtiksha.com"
+    },
+    {
+      "id": 3,
+      "name": "Amit Patel",
+      "position": "Head of Trading Operations",
+      "department": "Trading",
+      "image": "/images/team/amit.jpg",
+      "bio": "Expert in global supply chain management and international trade regulations with extensive market knowledge.",
+      "expertise": ["Supply Chain", "International Trade", "Market Analysis", "Logistics"],
+      "experience": "10+ years",
+      "education": "MBA in Supply Chain Management",
+      "linkedin": "https://linkedin.com/in/amit-patel",
+      "email": "amit@sanjtiksha.com"
+    },
+    {
+      "id": 4,
+      "name": "Sarah Johnson",
+      "position": "Lead Developer",
+      "department": "Technology",
+      "image": "/images/team/sarah.jpg",
+      "bio": "Full-stack developer with expertise in modern web technologies and user experience design.",
+      "expertise": ["React", "Node.js", "UI/UX Design", "Database Design"],
+      "experience": "8+ years",
+      "education": "BS in Computer Science",
+      "linkedin": "https://linkedin.com/in/sarah-johnson",
+      "email": "sarah@sanjtiksha.com"
+    }
+  ],
+  "departments": [
+    {
+      "name": "Leadership",
+      "description": "Strategic vision and company direction",
+      "color": "blue"
+    },
+    {
+      "name": "Technology",
+      "description": "Innovation and technical excellence",
+      "color": "green"
+    },
+    {
+      "name": "Trading",
+      "description": "Global commerce and supply chain",
+      "color": "orange"
+    }
+  ],
+  "company_culture": {
+    "values": [
+      "Innovation",
+      "Collaboration",
+      "Excellence",
+      "Integrity",
+      "Growth"
+    ],
+    "benefits": [
+      "Competitive Salary",
+      "Health Insurance",
+      "Professional Development",
+      "Flexible Working",
+      "Team Building Activities"
+    ]
+  }
+}

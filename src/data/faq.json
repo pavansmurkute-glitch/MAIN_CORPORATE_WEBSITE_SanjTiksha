@@ -1,0 +1,51 @@
+{
+  "title": "Frequently Asked Questions",
+  "description": "Find answers to common questions about our services, processes, and how we can help your business grow.",
+  "faqs": [
+    {
+      "question": "What services does SanjTiksha Roots & Wings offer?",
+      "answer": "We offer comprehensive solutions across two main divisions: Trading & Retail (product sourcing, supply chain management, quality assurance) and IT Services (web development, mobile apps, cloud solutions, digital marketing). Our unique advantage is combining traditional commerce expertise with cutting-edge technology.",
+      "additional_info": "Both divisions work together to provide integrated solutions for businesses looking to modernize their operations."
+    },
+    {
+      "question": "How do you ensure product quality in your trading division?",
+      "answer": "We have a rigorous 5-step quality assurance process: 1) Supplier verification and certification, 2) Pre-shipment inspection by certified quality inspectors, 3) Random sampling and testing, 4) Documentation and traceability, 5) Post-delivery quality monitoring. We maintain relationships with certified suppliers and conduct regular audits.",
+      "additional_info": "Our quality standards meet international certifications including ISO 9001:2015."
+    },
+    {
+      "question": "What technologies do you use for IT services?",
+      "answer": "We use modern, industry-standard technologies including React, Node.js, Python, AWS, Azure, Google Cloud, MongoDB, PostgreSQL, and more. Our team stays updated with the latest frameworks and tools to deliver cutting-edge solutions. We also specialize in emerging technologies like AI, IoT, and blockchain.",
+      "additional_info": "We choose technologies based on project requirements and long-term scalability needs."
+    },
+    {
+      "question": "How long does a typical project take?",
+      "answer": "Project timelines vary based on complexity and scope. Simple websites take 2-4 weeks, complex web applications 2-6 months, mobile apps 3-8 months, and enterprise solutions 6-12 months. Trading projects typically have faster turnaround times, with product sourcing taking 1-2 weeks and supply chain setup 2-4 weeks.",
+      "additional_info": "We provide detailed project timelines during the consultation phase and keep clients updated throughout the process."
+    },
+    {
+      "question": "Do you provide ongoing support after project completion?",
+      "answer": "Yes, we offer comprehensive post-project support including maintenance, updates, technical support, and training. Our support packages include 24/7 technical assistance, regular backups, security updates, and performance monitoring. We also provide training sessions for your team to manage the solutions independently.",
+      "additional_info": "Support packages are customizable based on your specific needs and budget."
+    },
+    {
+      "question": "What makes you different from other service providers?",
+      "answer": "Our unique dual expertise in both traditional commerce and modern technology sets us apart. We understand the complete business ecosystem, from product sourcing to digital transformation. This allows us to provide integrated solutions that other single-focus companies cannot offer. We also have a proven track record with 500+ satisfied clients and 95% satisfaction rate.",
+      "additional_info": "We offer end-to-end solutions that cover both your physical and digital business needs."
+    },
+    {
+      "question": "How do you handle international projects?",
+      "answer": "We have extensive experience with international clients across 15+ countries. Our team includes multilingual professionals, and we understand different business cultures and regulations. We use secure communication tools, follow international project management standards, and ensure compliance with local laws and regulations.",
+      "additional_info": "We can work in multiple time zones and provide local support through our partner network."
+    },
+    {
+      "question": "What is your pricing structure?",
+      "answer": "Our pricing is competitive and transparent, based on project scope, complexity, and timeline. We offer flexible pricing models including fixed-price projects, hourly rates, and retainer agreements. We provide detailed quotes with no hidden costs and offer payment plans for larger projects. Contact us for a personalized quote based on your specific requirements.",
+      "additional_info": "We offer special packages for startups and long-term partnerships."
+    },
+    {
+      "question": "How do I get started with your services?",
+      "answer": "Getting started is easy! Simply contact us through our website, email, or phone. We'll schedule a free consultation to understand your needs, discuss your goals, and provide a customized proposal. No obligations, just honest advice and transparent pricing. We're here to help you succeed.",
+      "additional_info": "Our initial consultation is completely free and includes a detailed project roadmap."
+    }
+  ]
+}

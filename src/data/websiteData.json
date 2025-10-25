@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Welcome to SanjTiksha",
+    "subtitle": "Your trusted partner for trading and IT solutions",
+    "description": "We provide comprehensive trading services and cutting-edge IT solutions to help your business grow."
+  },
+  "about": {
+    "title": "About Us",
+    "description": "SanjTiksha is a leading company providing trading and IT services."
+  },
+  "contact": {
+    "address": "Pune, Maharashtra, India",
+    "email": "info@sanjtiksha.com",
+    "phone": "+91 76662 93267"
+  }
+}

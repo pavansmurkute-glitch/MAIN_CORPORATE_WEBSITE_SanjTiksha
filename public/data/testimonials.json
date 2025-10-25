@@ -1,0 +1,74 @@
+{
+  "title": "What Our Clients Say",
+  "description": "Don't just take our word for it. Here's what our satisfied clients have to say about working with SanjTiksha Roots & Wings.",
+  "testimonials": [
+    {
+      "name": "Rajesh Kumar",
+      "position": "CEO",
+      "company": "TechCorp Solutions",
+      "content": "SanjTiksha transformed our entire business operations. Their IT solutions increased our efficiency by 40% and their trading services helped us expand to 3 new markets. Exceptional service!",
+      "rating": 5
+    },
+    {
+      "name": "Priya Sharma",
+      "position": "Operations Director",
+      "company": "Global Retail Chain",
+      "content": "The team at SanjTiksha understands both technology and commerce like no other. They delivered our e-commerce platform ahead of schedule and it's been running flawlessly for 2 years.",
+      "rating": 5
+    },
+    {
+      "name": "Amit Patel",
+      "position": "Founder",
+      "company": "StartupXYZ",
+      "content": "From day one, SanjTiksha has been our trusted partner. Their comprehensive approach to both our tech needs and product sourcing has been game-changing for our startup.",
+      "rating": 5
+    },
+    {
+      "name": "Dr. Sarah Johnson",
+      "position": "Managing Director",
+      "company": "Healthcare Innovations",
+      "content": "Working with SanjTiksha has been a revelation. Their technology solutions are cutting-edge, and their trading division sources the highest quality medical equipment. Highly recommended!",
+      "rating": 5
+    },
+    {
+      "name": "Michael Chen",
+      "position": "CTO",
+      "company": "FinTech Global",
+      "content": "SanjTiksha's dual expertise in technology and commerce is unmatched. They helped us build a robust trading platform and provided excellent support throughout the project.",
+      "rating": 5
+    },
+    {
+      "name": "Lisa Rodriguez",
+      "position": "VP Operations",
+      "company": "Manufacturing Plus",
+      "content": "The quality of products sourced through SanjTiksha's trading division is outstanding, and their IT services have modernized our entire operation. A true partner in every sense.",
+      "rating": 5
+    }
+  ],
+  "trust_indicators": [
+    {
+      "name": "Microsoft",
+      "icon": "🏢"
+    },
+    {
+      "name": "Amazon",
+      "icon": "🛒"
+    },
+    {
+      "name": "Google",
+      "icon": "🔍"
+    },
+    {
+      "name": "IBM",
+      "icon": "💻"
+    },
+    {
+      "name": "Oracle",
+      "icon": "🗄️"
+    },
+    {
+      "name": "Salesforce",
+      "icon": "☁️"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="10" height="10" patternUnits="userSpaceOnUse">
+      <path d="M 10 0 L 0 0 0 10" fill="none" stroke="#e5e7eb" stroke-width="0.5" opacity="0.3"/>
+    </pattern>
+    <radialGradient id="circle1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#dbeafe" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0.05"/>
+    </radialGradient>
+    <radialGradient id="circle2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f0f9ff" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0.03"/>
+    </radialGradient>
+  </defs>
+  
+  <!-- Background pattern -->
+  <rect width="100" height="100" fill="url(#grid)"/>
+  
+  <!-- Floating circles -->
+  <circle cx="20" cy="20" r="15" fill="url(#circle1)"/>
+  <circle cx="80" cy="30" r="12" fill="url(#circle2)"/>
+  <circle cx="70" cy="70" r="18" fill="url(#circle1)"/>
+  <circle cx="25" cy="75" r="10" fill="url(#circle2)"/>
+  <circle cx="50" cy="50" r="8" fill="url(#circle1)"/>
+</svg>

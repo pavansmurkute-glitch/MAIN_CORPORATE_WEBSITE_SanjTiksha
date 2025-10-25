@@ -1,0 +1,38 @@
+{
+  "tagline": "Where Commerce Meets Technology",
+  "subtitle": "SanjTiksha Roots & Wings",
+  "description": "Empowering businesses with innovative trading solutions and cutting-edge technology services. From quality product sourcing to custom software development, we deliver excellence across every touchpoint.",
+  "buttons": [
+    {
+      "label": "Explore Our Services",
+      "link": "#about",
+      "icon": "🚀",
+      "color": "blue"
+    },
+    {
+      "label": "Get Free Consultation", 
+      "link": "#contact",
+      "icon": "💬",
+      "color": "orange"
+    }
+  ],
+  "background_image": "/images/banner.jpg",
+  "stats": [
+    {
+      "number": "500+",
+      "label": "Happy Clients"
+    },
+    {
+      "number": "1000+",
+      "label": "Projects Completed"
+    },
+    {
+      "number": "5+",
+      "label": "Years Experience"
+    },
+    {
+      "number": "24/7",
+      "label": "Support Available"
+    }
+  ]
+}
