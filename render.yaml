@@ -2,8 +2,15 @@ services:
   - type: web
     name: sanjtiksha-main
     env: static
-    buildCommand: npm install && npm run build && ls -la dist
-    staticPublishPath: ./dist
+    buildCommand: |
+      npm install
+      npm run build
+      echo "Build completed, checking dist directory:"
+      ls -la
+      ls -la dist/
+      echo "Contents of dist directory:"
+      find dist -type f
+    staticPublishPath: dist
     envVars:
       - key: NODE_VERSION
         value: 20.19.0
